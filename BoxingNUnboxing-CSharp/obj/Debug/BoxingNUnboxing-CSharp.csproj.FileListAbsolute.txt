@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\BoxingNUnboxing-CSharp\BoxingNUnboxing-CSharp\bin\Debug\BoxingNUnboxing-CSharp.exe.config
+C:\Users\lenovo\source\repos\BoxingNUnboxing-CSharp\BoxingNUnboxing-CSharp\bin\Debug\BoxingNUnboxing-CSharp.exe
+C:\Users\lenovo\source\repos\BoxingNUnboxing-CSharp\BoxingNUnboxing-CSharp\bin\Debug\BoxingNUnboxing-CSharp.pdb
+C:\Users\lenovo\source\repos\BoxingNUnboxing-CSharp\BoxingNUnboxing-CSharp\obj\Debug\BoxingNUnboxing-CSharp.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\BoxingNUnboxing-CSharp\BoxingNUnboxing-CSharp\obj\Debug\BoxingNUnboxing-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\BoxingNUnboxing-CSharp\BoxingNUnboxing-CSharp\obj\Debug\BoxingNUnboxing-CSharp.exe
+C:\Users\lenovo\source\repos\BoxingNUnboxing-CSharp\BoxingNUnboxing-CSharp\obj\Debug\BoxingNUnboxing-CSharp.pdb
